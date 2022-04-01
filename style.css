@@ -9,6 +9,7 @@
     padding: 8px;
   }
   td {
+    width: 10%;
     border: 1px solid black;
     text-align: center;
     padding: 8px;
